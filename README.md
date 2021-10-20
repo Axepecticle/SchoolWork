@@ -7,7 +7,7 @@ Account:
 Repository:
 1. Click the plus sign next to your profile picture (top right corner)
 2. Choose "New repository"
-You can also check the "Private" box to make it private (Wow!!!!!)
+3. You can also check the "Private" box to make it private (Wow!!!!!)
 
 Making our first file:
 (in GitBash)
